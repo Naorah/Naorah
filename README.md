@@ -48,6 +48,11 @@ Hi! I'm an enthusiastic software engineer with a passion for developing innovati
     <td><a href="https://aruscha.pelsy.net/">Aruscha</a></td>
     <td>My latest major project, a Discord RPG bot focused on player interactions. It enhances cooperation in raids and clan creation, offering exciting dungeon explorations and adventures.</td>
   </tr>
+    <tr>
+    <td><img src="https://minipills.pelsy.net/favicon.png" alt="Minipills" width="48" height="48"></td>
+    <td><a href="https://minipills.pelsy.net/">Minipills</a></td>
+    <td>A new pill customizer, create pills with contents, aggregate with logo fast, contribute by giving your logo ideas and join the discord.</td>
+  </tr>
 </table>
 
 ---
