@@ -53,6 +53,18 @@ Hi! I'm an enthusiastic software engineer with a passion for developing innovati
     <td><a href="https://minipills.pelsy.net/">Minipills</a></td>
     <td>A new pill customizer, create pills with contents, aggregate with logo fast, contribute by giving your logo ideas and join the discord.</td>
   </tr>
+  </tr>
+    <tr>
+    <td><img src="https://back2me.pelsy.net/favicon.png" alt="Back2Me" width="48" height="48"></td>
+    <td><a href="https://back2me.pelsy.net/">Back2Me</a></td>
+    <td>An innovative way to help people to get their lost items back putting a custom QRcode on them ! Scan and customize your message if you find one, choose how you want to get contacted without leaking any personnal informations !</td>
+  </tr>
+  </tr>
+    <tr>
+    <td><img src="https://flashpass.pelsy.net/favicon.png" alt="Flashpass" width="48" height="48"></td>
+    <td><a href="https://flashpass.pelsy.net/">FlashPass</a></td>
+    <td>Tired to hesitate to send a password through SMS or Email with fast delivery. I made my own P2P encrypted password transmitter.</td>
+  </tr>
 </table>
 
 ---
