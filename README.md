@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile)
-
 ## About Me
 
 Hi! I'm an enthusiastic software engineer with a passion for developing innovative projects and exploring new technologies. Here's a bit more about me:
