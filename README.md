@@ -69,6 +69,18 @@ Hi! I'm an enthusiastic software engineer with a passion for developing innovati
     <td><a href="https://flashpass.pelsy.net/">FlashPass</a></td>
     <td>Tired to hesitate to send a password through SMS or Email with fast delivery. I made my own P2P encrypted password transmitter.</td>
   </tr>
+  </tr>
+    <tr>
+    <td><img src="https://velvt.pelsy.net/favicon.png" alt="Zest & Velvet" width="48" height="48"></td>
+    <td><a href="https://velvt.pelsy.net/">Zest & Velvet</a></td>
+    <td>Whether it's a pop-up bar or me pretending to be a real bartender, it was finally time to get some feedback on our signature cocktails!</td>
+  </tr>
+  </tr>
+    <tr>
+    <td><img src="https://holdify.pelsy.net/H_white.png" alt="Holdify" width="48" height="48"></td>
+    <td><a href="https://holdify.pelsy.net/">Holdify</a></td>
+    <td>Calculating profitability between a holding company and its subsidiary has never been easier for anyone.</td>
+  </tr>
 </table>
 
 ---
