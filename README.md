@@ -4,13 +4,13 @@
 
 Hi! I'm an enthusiastic software engineer with a passion for developing innovative projects and exploring new technologies. Here's a bit more about me:
 
-- **Name:** Samuel
-- **Born:** 1999
-- **Education:** 
+**Name:** Samuel
+**Born:** 1999
+**Education:** 
   - IUT Informatique d'Illkirch
   - UTBM at Belfort
-- **Current Role:** Software Engineer
-- **Interests:** 
+**Current Role:** Software Engineer
+**Interests:** 
   - Cocktails Enthusiast 🍹
   - Ice Cube Breaker ❄️
   - Passionate about Moto 🏍️, Swimming 🏊, Tennis 🎾, and Drumming 🥁
