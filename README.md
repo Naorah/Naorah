@@ -77,7 +77,7 @@ Hi! I'm an enthusiastic software engineer with a passion for developing innovati
   </tr>
   </tr>
     <tr>
-    <td><img src="https://holdify.pelsy.net/H_white.png" alt="Holdify" width="48" height="48"></td>
+    <td><img src="https://holdify.pelsy.net/favicon_white.png" alt="Holdify" width="48" height="48"></td>
     <td><a href="https://holdify.pelsy.net/">Holdify</a></td>
     <td>Calculating profitability between a holding company and its subsidiary has never been easier for anyone.</td>
   </tr>
