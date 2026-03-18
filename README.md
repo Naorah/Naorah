@@ -1,20 +1,21 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Samuel!
 
-## About Me
+Welcome to my GitHub profile! I'm a creative and driven software engineer passionate about solving problems and building innovative solutions. I love to experiment with new technologies and enjoy collaborating on projects that make a difference.
 
-Hi! I'm an enthusiastic software engineer with a passion for developing innovative projects and exploring new technologies. Here's a bit more about me:
+## Quick Facts
 
-**Name:** Samuel
-**Born:** 1999
-**Education:** 
-  - IUT Informatique d'Illkirch
-  - UTBM at Belfort
-**Current Role:** Software Engineer
-**Interests:** 
-  - Cocktails Enthusiast 🍹
-  - Ice Cube Breaker ❄️
-  - Passionate about Moto 🏍️, Swimming 🏊, Tennis 🎾, and Drumming 🥁
-  - Curious about the Crypto World 💹
+- **Education:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;IUT Informatique d'Illkirch  
+  &nbsp;&nbsp;&nbsp;&nbsp;UTBM at Belfort
+
+- **Current Role:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;Software Engineer
+
+- **Interests:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;Crafting unique cocktails 🍹  
+  &nbsp;&nbsp;&nbsp;&nbsp;Breaking the ice (sometimes literally!) ❄️  
+  &nbsp;&nbsp;&nbsp;&nbsp;Moto enthusiast 🏍️, swimming 🏊, tennis 🎾, and drumming 🥁  
+  &nbsp;&nbsp;&nbsp;&nbsp;Always learning, especially about the crypto world 💹
 
 ---
 
